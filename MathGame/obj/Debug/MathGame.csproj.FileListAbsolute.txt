@@ -1,0 +1,11 @@
+C:\Users\jorgo\Desktop\Vizuelno\lab03\MathGame\MathGame\bin\Debug\MathGame.exe.config
+C:\Users\jorgo\Desktop\Vizuelno\lab03\MathGame\MathGame\bin\Debug\MathGame.exe
+C:\Users\jorgo\Desktop\Vizuelno\lab03\MathGame\MathGame\bin\Debug\MathGame.pdb
+C:\Users\jorgo\Desktop\Vizuelno\lab03\MathGame\MathGame\obj\Debug\MathGame.csprojResolveAssemblyReference.cache
+C:\Users\jorgo\Desktop\Vizuelno\lab03\MathGame\MathGame\obj\Debug\MathGame.Form1.resources
+C:\Users\jorgo\Desktop\Vizuelno\lab03\MathGame\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+C:\Users\jorgo\Desktop\Vizuelno\lab03\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.Cache
+C:\Users\jorgo\Desktop\Vizuelno\lab03\MathGame\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\jorgo\Desktop\Vizuelno\lab03\MathGame\MathGame\obj\Debug\MathGame.exe
+C:\Users\jorgo\Desktop\Vizuelno\lab03\MathGame\MathGame\obj\Debug\MathGame.pdb
+C:\Users\jorgo\Desktop\Vizuelno\lab03\MathGame\MathGame\obj\Debug\MathGame.ScoreTable.resources
